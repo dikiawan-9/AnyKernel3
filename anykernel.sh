@@ -4,17 +4,17 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=PhantomKernel by Felix Febryan
+kernel.string=Garuda Kernel by felixfw16
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=whyred
-device.name2=
-device.name3=
-device.name4=
-device.name5=
+device.name2=tulip
+device.name3=jasmine_sprout
+device.name4=wayne
+device.name5=lavender
 supported.versions=
 supported.patchlevels=
 '; } # end properties
