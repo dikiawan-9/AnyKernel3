@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=-Selena-Kernel by DixiExe
+kernel.string=-Patrik ★-Kernel by DixiExe
 do.devicecheck=1
 do.modules=0
 do.systemless=1
